@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Diamonsam
+- 👋 Hi, I’m @Samir Mistry aka Diamonsam
 - 👀 I’m interested for Full Stack.
 - 🌱 I’m currently learning Java
 - 💞️ I'm curently working as Front-End.
